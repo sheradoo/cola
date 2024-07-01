@@ -1,7 +1,7 @@
 {
     "name": 'COLA',
     "symbol": 'COLA',
-    "image": https://raw.githubusercontent.com/sheradoo/cola.json/b4078bb679a7560319755ee135add29c9d9da8bb/IMG_3087.png,
+    "image": 'https://sheradoo.github.io/cola/IMG_3087.png',
     "description": `
                     One hundred eaters
                     They won't fit in one SUV (nah)
