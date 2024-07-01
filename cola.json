@@ -1,7 +1,7 @@
 {
-    "name": 'COLA',
-    "symbol": 'COLA',
-    "image": 'https://sheradoo.github.io/cola/IMG_3087.png',
+    "name": 'DINO',
+    "symbol": 'DNO',
+    "image": 'https://sheradoo.github.io/cola/dino.png',
     "description": `
                     One hundred eaters
                     They won't fit in one SUV (nah)
@@ -15,7 +15,7 @@
         "twitter": "https://twitter.com/",
         "telegram": "https://t.me/"
     },
-    "tags": [ "COLA","SHARE", "TOKEN" ],
+    "tags": [ "DINO","SHARE", "TOKEN" ],
     "creator": {
         "name": "THINKER",
         "site": "https://github.com/"
