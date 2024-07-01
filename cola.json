@@ -1,8 +1,8 @@
 {
-    "name": 'DINO',
-    "symbol": 'DNO',
-    "image": 'https://sheradoo.github.io/cola/dino.png',
-    "description": `
+    name: 'DINO',
+    symbol: 'DNO',
+    image: https://sheradoo.github.io/cola/dino.png,
+    description: `
                     One hundred eaters
                     They won't fit in one SUV (nah)
                     S-O-S, somebody rescue me
@@ -10,14 +10,14 @@
                     They can last me the next two weeks (uh, huh)
                     Alright, like send the address through, please
                  `,
-    "extensions": {
-        "website": "https://thinker.com/",
-        "twitter": "https://twitter.com/",
-        "telegram": "https://t.me/"
+    extensions: {
+        website: "https://thinker.com/",
+        twitter: "https://twitter.com/",
+        telegram: "https://t.me/"
     },
-    "tags": [ "DINO","SHARE", "TOKEN" ],
-    "creator": {
-        "name": "THINKER",
-        "site": "https://github.com/"
+    tags: [ "DINO","SHARE", "TOKEN" ],
+    creator: {
+        name: "THINKER",
+        site: "https://github.com/"
     }
 }
